@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Christopher David Elison</Authors>
+    <Company>Christopher David Elison</Company>
+    <Description>Reads a Grim Dawn .gdc save file and outputs character data to the console.</Description>
+  </PropertyGroup>
+
+</Project>
